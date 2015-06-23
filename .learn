@@ -1,2 +1,4 @@
 languages:
-    tags:
+  - python
+tags:
+  - methods
