@@ -1,3 +1,3 @@
 
 # My First Python Lab
-<a href='https://learn.co/lessons/my-first-python-lab' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/my-first-python-lab' title='My First Python Lab'>My First Python Lab</a> on Learn.co and start learning to code for free.</p>
